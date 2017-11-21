@@ -53,7 +53,7 @@ class TicTacToe:
     def random_play(self):
         self.cell = str(random.randint(1, 9))
 
-    def set_status(self):
+    def set_status(self):  # need to figure out away to optimize
         if self.storage_db["1"] == self.storage_db["2"] == self.storage_db["3"]:
             self.status = self.storage_db["1"]
         elif self.storage_db["4"] == self.storage_db["5"] == self.storage_db["6"]:

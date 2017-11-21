@@ -20,21 +20,11 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+            <state relative-caret-position="573">
+              <caret line="55" column="27" lean-forward="false" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
               <folding>
-                <element signature="e#65#267#0" expanded="false" />
-                <element signature="e#298#1345#0" expanded="false" />
-                <element signature="e#1379#1472#0" expanded="false" />
-                <element signature="e#1506#1522#0" expanded="false" />
-                <element signature="e#1556#1691#0" expanded="false" />
-                <element signature="e#1731#2014#0" expanded="false" />
-                <element signature="e#2054#2076#0" expanded="false" />
-                <element signature="e#2113#2150#0" expanded="false" />
-                <element signature="e#2186#3258#0" expanded="false" />
-                <element signature="e#3294#3312#0" expanded="false" />
-                <element signature="e#3339#3553#0" expanded="false" />
-                <element signature="e#3587#4287#0" expanded="false" />
+                <element signature="e#3333#3351#0" expanded="false" />
+                <element signature="e#3626#4326#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -158,6 +148,14 @@
       <option name="presentableId" value="Default" />
       <updated>1511229074564</updated>
     </task>
+    <task id="LOCAL-00001" summary="Completed script&#10;- will review code">
+      <created>1511252559429</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1511252559429</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -169,7 +167,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2369292" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16315505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16315505" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32958305" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -190,8 +188,14 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed script&#10;- will review code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed script&#10;- will review code" />
+  </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
@@ -200,39 +204,19 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#65#267#0" expanded="false" />
-            <element signature="e#298#1345#0" expanded="false" />
-            <element signature="e#1379#1472#0" expanded="false" />
-            <element signature="e#1506#1522#0" expanded="false" />
-            <element signature="e#1556#1691#0" expanded="false" />
-            <element signature="e#1731#2014#0" expanded="false" />
-            <element signature="e#2054#2076#0" expanded="false" />
-            <element signature="e#2113#2150#0" expanded="false" />
-            <element signature="e#2186#3258#0" expanded="false" />
-            <element signature="e#3294#3312#0" expanded="false" />
-            <element signature="e#3339#3553#0" expanded="false" />
-            <element signature="e#3587#4287#0" expanded="false" />
+            <element signature="e#3333#3351#0" expanded="false" />
+            <element signature="e#3626#4326#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="117" column="0" lean-forward="true" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+        <state relative-caret-position="573">
+          <caret line="55" column="27" lean-forward="false" selection-start-line="55" selection-start-column="27" selection-end-line="55" selection-end-column="27" />
           <folding>
-            <element signature="e#65#267#0" expanded="false" />
-            <element signature="e#298#1345#0" expanded="false" />
-            <element signature="e#1379#1472#0" expanded="false" />
-            <element signature="e#1506#1522#0" expanded="false" />
-            <element signature="e#1556#1691#0" expanded="false" />
-            <element signature="e#1731#2014#0" expanded="false" />
-            <element signature="e#2054#2076#0" expanded="false" />
-            <element signature="e#2113#2150#0" expanded="false" />
-            <element signature="e#2186#3258#0" expanded="false" />
-            <element signature="e#3294#3312#0" expanded="false" />
-            <element signature="e#3339#3553#0" expanded="false" />
-            <element signature="e#3587#4287#0" expanded="false" />
+            <element signature="e#3333#3351#0" expanded="false" />
+            <element signature="e#3626#4326#0" expanded="false" />
           </folding>
         </state>
       </provider>
