@@ -55,9 +55,15 @@ class TicTacToe:
         return self.storage_db
 
     def random_play(self):
+
+        """ Gets random cell for computers move """
+
         self.cell = str(random.randint(1, 9))
 
     def set_status(self):  # need to figure out away to optimize
+
+        """ Checks if there is a row, column or diagonal of matching 'X' or 'O' """
+
         if self.storage_db["1"] == self.storage_db["2"] == self.storage_db["3"]:
             self.status = self.storage_db["1"]
         elif self.storage_db["4"] == self.storage_db["5"] == self.storage_db["6"]:
