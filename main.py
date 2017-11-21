@@ -1,3 +1,7 @@
+# Ayoola Abimbola
+# Tic Tac Toe
+# November 2017
+
 import random
 
 
@@ -91,6 +95,7 @@ if __name__ == '__main__':
     begin = input("Are you ready to play? (Y or N): ").upper()
 
     if begin == "Y" or begin == "YES":
+        print("Computer plays first:\n")
         while True:
             game1.set_icon()
             game1.set_storage_db()
